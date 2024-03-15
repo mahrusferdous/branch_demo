@@ -1,12 +1,4 @@
 this is my main file 
-<<<<<<< HEAD
-<<<<<<< HEAD
-add from fearure-2 
-=======
-add from feature-1 
->>>>>>> feature-1
+add from feature-1
 this is from feature 
-=======
-add from feature-1 
-add from fearure-2 
->>>>>>> b82f0ac3ca0c0bb6ba22183d9d500287c13a01fc
+
