@@ -1,4 +1,3 @@
-this is my main file 
-add from feature-1
-this is from feature 
-
+1
+2
+3
